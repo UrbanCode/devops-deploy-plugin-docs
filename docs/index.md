@@ -19,12 +19,19 @@ hero:
       link: https://www.ibm.com/mysupport/s/?language=en_US
 
 features:
+  - title: AccuRev SCM 🌐
+    icon: ⚙️ 
+    details: AccuRev is a client/server based source configuration management tool developed by AccuRev Inc. and maintained by MicroFocus
+    link: AccuRevSourceConfig/
+
   - title: z/OS Dataset Writer
-    details: Data set writer plugin for z/OS
+    icon: 📦
+    details: Copies text, dataset, or USS file to a mainframe dataset
     link: zos-dataset-writer/
 
   - title: z/OS REXX
-    details: REXX plugin for z/OS
+    icon: 📦
+    details: Executes REXX program from a Dataset or from a specified inline text in the plugin
     link: zos-rexx/
 ---
 

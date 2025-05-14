@@ -17,20 +17,17 @@ function createCommonSidebar(base) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/devops-deploy-plugin-docs/",
-  title: "IBM DevOps Deploy Plugins Documentation",
+  title: "Home",
   description: "Documentation for IBM DevOps Deploy Plugins",
   themeConfig: {
     search: {
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' }
-    ],
-
     sidebar: {
       '/zos-dataset-writer/' : createCommonSidebar('/zos-dataset-writer'),
-      '/zos-rexx/' : createCommonSidebar('/zos-rexx')
+      '/zos-rexx/' : createCommonSidebar('/zos-rexx'),
+      '/AccuRevSourceConfig/' : createCommonSidebar('/AccuRevSourceConfig')
     },
 
     socialLinks: [
