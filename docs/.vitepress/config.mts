@@ -20,6 +20,9 @@ export default defineConfig({
   title: "IBM DevOps Deploy Plugins",
   description: "Documentation for XYZ Plugins",
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' }
