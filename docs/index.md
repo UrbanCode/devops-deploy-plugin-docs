@@ -7,7 +7,7 @@ hero:
   text: "Plugins Documentation"
   actions:
     - theme: brand
-      text: Getting Started With IBM DevOps Deploy
+      text: Get Started With IBM DevOps Deploy
       link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=getting-started
 
     - theme: alt
