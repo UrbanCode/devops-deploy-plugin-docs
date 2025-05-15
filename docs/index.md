@@ -7,7 +7,7 @@ hero:
   text: "Plugins Documentation"
   actions:
     - theme: brand
-      text: Get Started With IBM DevOps Deploy
+      text: Get started with IBM DevOps Deploy
       link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=getting-started
 
     - theme: alt
@@ -15,7 +15,7 @@ hero:
       link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=function-plug-ins
 
     - theme: alt
-      text: Get Help
+      text: Get help
       link: https://www.ibm.com/mysupport/s/?language=en_US
 
 features:
@@ -25,12 +25,12 @@ features:
     link: AccuRevSourceConfig/
 
   - title: z/OS Dataset Writer
-    icon: 📦
+    icon: 🛠️
     details: Copies text, dataset, or USS file to a mainframe dataset
     link: zos-dataset-writer/
 
   - title: z/OS REXX
-    icon: 📦
+    icon: 🛠️
     details: Executes REXX program from a Dataset or from a specified inline text in the plugin
     link: zos-rexx/
 ---
