@@ -24,6 +24,11 @@ features:
     details: AccuRev is a client/server based source configuration management tool developed by AccuRev Inc. and maintained by MicroFocus
     link: AccuRevSourceConfig/
 
+  - title: Ansible
+    icon: 🛠️ 
+    details: The Ansible plugin enables seamless integration of Ansible environment into the DevOps Deploy deployment process, allowing you to execute various commands.
+    link: ansible/
+
   - title: z/OS Dataset Writer
     icon: 🛠️
     details: Copies text, dataset, or USS file to a mainframe dataset

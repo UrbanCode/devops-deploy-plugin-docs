@@ -27,6 +27,7 @@ export default defineConfig({
     sidebar: {
       '/zos-dataset-writer/' : createCommonSidebar('/zos-dataset-writer'),
       '/zos-rexx/' : createCommonSidebar('/zos-rexx'),
+      '/ansible/' : createCommonSidebar('/ansible'),
       '/AccuRevSourceConfig/' : createCommonSidebar('/AccuRevSourceConfig')
     },
 
