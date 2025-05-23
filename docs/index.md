@@ -5,9 +5,6 @@ layout: home
 hero:
   name: "IBM DevOps Deploy"
   text: "Plugins Documentation"
-  image:
-    src: "deploy-white.png"
-    alt: "DevOps Deploy"
   actions:
     - theme: brand
       text: Get started with IBM DevOps Deploy
