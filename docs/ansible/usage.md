@@ -1,54 +1,48 @@
 # Usage
 
----
-
 The Ansible plugin enables seamless integration of an Ansible environment into your deployment process. It provides a broad selection of modules, each of which can be utilized as discrete steps within your automation pipeline.
 
-**Providing Example Usage for Each Ansible Plug-in Step (Module):**
-
-[[toc]]
-
-## **Command**
+## Command
 The Command module is used to execute commands on a remote node. It is primarily utilized for running simple Linux commands on remote nodes or servers that are part of a host group or standalone server within that group. If you need to run basic shell commands on a remote server, the Command module is the ideal choice.
 
 [![Command](media/command.png)]
 
-## **Copy**
+## Copy
 The Copy module transfers files or directory structures from a local or remote machine to a specified location on a remote machine. It allows you to set file system meta-information (such as permissions and ownership), even if the file or directory already exists on the target system. Additionally, certain meta-information can be copied upon request.
 
 [![Copy](media/copy.png)]
 
-## **File**
+## File
 The File module is used to manage files and directories on remote hosts. It allows you to create, delete, modify permissions, and manage file ownership on remote nodes.
 
 [![File](media/file.png)]
 
-## **Get URL**
+## Get URL
 The get_url module is used to access remote URLs (HTTP/HTTPS/FTP) and download files or packages, saving them locally.
 
 [![Get URL](media/geturl.png)]
 
-## **Line In File**
+## Line In File
 The lineinfile module is useful for adding, removing, or modifying a single line in a file. It allows you to use conditions and regular expressions to match the line before making changes. Additionally, you can reuse and modify the matched line using back-reference parameters.
 
 [![Line In File](media/lineinfile.png)]
 
-## **Pip**
+## Pip
 The pip module is used to manage Python library dependencies.
 
 [![Pip](media/pip.png)]
 
-## **Apt**
+## Apt
 The apt module is used to manage packages on Debian-based systems, including Ubuntu, that use the apt package manager. You can leverage the apt module to perform tasks such as installing, removing, and updating packages on remote hosts.
 
 [![Apt](media/apt.png)]
 
-## **Service**
+## Service
 The service module is used to manage services on remote systems. It offers a consistent and declarative approach to starting, stopping, restarting, and checking the status of services across various operating systems, helping to automate and standardize infrastructure management.
 
 [![Service](media/service.png)]
 
-## **Shell**
+## Shell
 The shell module is used to execute shell commands on target Unix-based hosts. Unlike the command module, the shell module supports more complex commands, including those with pipes, redirection, and other advanced shell features. It also allows you to run shell scripts on remote systems.  <br/>
 Ex: Shell script execution.  <br/>
 [![Shell](media/shell1.png)]
@@ -56,7 +50,7 @@ Ex: Shell script execution.  <br/>
 Ex: Two commands execution with pipe.  <br/>
 [![Shell](media/shell2.png)]
 
-## **Unarchive**
+## Unarchive
 The unarchive module is used to unpack or decompress files from archive formats such as .tar, .tar.gz, and .zip. This module can optionally copy the archive files to the remote server before extracting their contents.
 
 [![Unarchive](media/unarchive.png)]
