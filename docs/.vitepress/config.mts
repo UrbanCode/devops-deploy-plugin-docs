@@ -19,6 +19,7 @@ export default defineConfig({
   base: "/devops-deploy-plugin-docs/",
   title: "Home",
   description: "Documentation for IBM DevOps Deploy Plugins",
+  appearance: "force-dark",
   themeConfig: {
     search: {
       provider: 'local'
