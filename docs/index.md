@@ -6,7 +6,7 @@ hero:
   name: "IBM DevOps Deploy"
   text: "Plugins Documentation"
   image:
-    src: "media/deploy-white.png"
+    src: "/deploy-white.png"
     alt: "DevOps Deploy"
   actions:
     - theme: brand
