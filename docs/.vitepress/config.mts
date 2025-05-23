@@ -20,6 +20,7 @@ export default defineConfig({
   title: "Home",
   description: "Documentation for IBM DevOps Deploy Plugins",
   appearance: "force-dark",
+  lastUpdated: true,
   themeConfig: {
     search: {
       provider: 'local'
