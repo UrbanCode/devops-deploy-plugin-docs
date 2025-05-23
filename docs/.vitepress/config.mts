@@ -33,6 +33,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/UrbanCode/devops-deploy-plugin-docs' }
-    ]
+    ],
+    footer: {
+      copyright: "©️ IBM Corp. 2011, 2017. <br> ©️ HCL Technologies Limited 2018, 2025.",
+
+    }
   }
 })
