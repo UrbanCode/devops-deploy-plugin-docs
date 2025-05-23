@@ -15,8 +15,13 @@ hero:
       link: https://www.ibm.com/docs/en/devops-deploy/8.1.1?topic=function-plug-ins
 
     - theme: alt
+      text: Build Your Own Plugin
+      link: https://community.ibm.com/community/user/blogs/shabaz-kowthalam/2024/11/25/creating-an-automation-plugin-for-devops-deploy
+
+    - theme: alt
       text: Get help
       link: https://www.ibm.com/mysupport/s/?language=en_US
+
 
 features:
   - title: AccuRev SCM 🌐
