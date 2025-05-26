@@ -37,22 +37,22 @@ features:
 
   - title: Ansible
     icon:
-      light: "/process-dark.png"
-      dark: "/process-white.png"
+      light: "/runProcess-dark.png"
+      dark: "/runProcess-white.png"
     details: The Ansible plugin enables seamless integration of Ansible environment into the DevOps Deploy deployment process, allowing you to execute various commands.
     link: ansible/
 
   - title: z/OS Dataset Writer
     icon:
-      light: "/process-dark.png"
-      dark: "/process-white.png"
+      light: "/runProcess-dark.png"
+      dark: "/runProcess-white.png"
     details: Copies text, dataset, or USS file to a mainframe dataset
     link: zos-dataset-writer/
 
   - title: z/OS REXX
     icon:
-      light: "/process-dark.png"
-      dark: "/process-white.png"
+      light: "/runProcess-dark.png"
+      dark: "/runProcess-white.png"
     details: Executes REXX program from a Dataset or from a specified inline text in the plugin
     link: zos-rexx/
 ---
