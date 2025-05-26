@@ -22,6 +22,9 @@ export default defineConfig({
   appearance: "dark",
   lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/UrbanCode/devops-deploy-plugin-docs/edit/main/docs/:path'
+    },
     search: {
       provider: 'local'
     },
