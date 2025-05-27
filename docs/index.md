@@ -38,8 +38,8 @@ features:
   -
     title: AccuRev SCM
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "AccuRev is a client/server based source configuration management tool developed by AccuRev Inc. and maintained by MicroFocus."
     link: "AccuRevSourceConfig/README"
   -
@@ -136,8 +136,8 @@ features:
   -
     title: Artifactory Source Config
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Artifactory source configuration plug-in includes steps to complete the following tasks:"
     link: "ArtifactorySourceConfig/README"
   -
@@ -171,8 +171,8 @@ features:
   -
     title: Azure DevOps Sourceconfig
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Microsoft Azure DevOps source configuration plugin automates importing version artifacts from a Azure DevOps server."
     link: "AzureDevopsSourceconfig/README"
   -
@@ -192,8 +192,8 @@ features:
   -
     title: CA SCM (formerly Harvest)
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The CA SCM plug-in enables you to import artifacts as component version This DevOps Deploy plug-in works with all current supported versions of CA Harvest SCM."
     link: "air-plugin-CASCM/README"
   -
@@ -262,8 +262,8 @@ features:
   -
     title: Dimensions
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Dimensions Source Config plug-in enables you to manually or automatically import artifacts from a Dimensions CM into an IBM DevOps Deploy Component version."
     link: "DimensionsSourceConfig/README"
   -
@@ -283,8 +283,8 @@ features:
   -
     title: Docker Registry
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Use the Docker source configuration plug-in to manually or automatically create component versions from a Docker registry or the IBM Container Service. The plug-in works by detecting Docker registry image tags and creating associated component versions for the tag. Unsure where to begin? Visit [Getting Started with IBM DevOps Deploy and Containers](https://community.ibm.com/community/user/wasdevops/blogs/osman-burucu/2022/07/22/getting-started-with-devops-deploy-and-containe/)."
     link: "DockerSourceConfig/README"
   -
@@ -297,15 +297,15 @@ features:
   -
     title: File System
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The File System source config plug-in enables one to manually import artifacts from the file system into a folder. The artifacts are not stored into version folder, using this plug-in you must manually create versions. To import artifacts into version folders, use the [File System (Versioned)](https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/UCD/FileSystemVersionedSourceConfig/) plug-in. Compatibility"
     link: "FileSystemSourceConfig/README"
   -
     title: File System (Versioned)
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The File System (Versioned) source config plug-in imports source artifacts with versions from a file system. You can manually or automatically import artifacts from the file system into a directory structure that represents the artifact versions. Compatibility"
     link: "FileSystemVersionedSourceConfig/README"
   -
@@ -325,8 +325,8 @@ features:
   -
     title: Git
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Git source config plug-in enables you to manually or automatically import artifacts from a Git source-code management (SCM) repository into an IBM DevOps Deploy Component version. This plug-in interacts with Git by using the git command line interface, which must be available locally."
     link: "GitSourceConfig/README"
   -
@@ -344,17 +344,17 @@ features:
     details: "Gitlab Generic Packages automation plufgin. Initial release of this plugin."
     link: "gitlab-generic-packages/README"
   -
-    title: GitLab-Sourceconfig-Generic-Packages
+    title: GitLab Source Config Generic Packages
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Gitlab Generic Packages Initial release of this plugin."
     link: "gitlab-sourceconfig-generic-packages/README"
   -
     title: GitHub-Release
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The GitHub Release plug-in is a source configuration plug-in that creates a component version on the DevOps Deploy server for a specified GitHub repository release being imported. The plug-in can be used to import ZIP and TAR artifacts from GitHub."
     link: "sourceconfig-github-release/README"
   -
@@ -493,8 +493,8 @@ features:
   -
     title: IBM Business Process Manager (WebSphere BPM)
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "IBM Business Process Manager is a comprehensive business process management platform, providing full visibility and insight to managing business processes. It provides tooling and a runtime environment for process design, execution, monitoring and optimization, along with basic system integration support. The product can be configured to support various levels of complexity and involvement with business process management."
     link: "WebSphereBPMSourceConfig/README"
   -
@@ -675,8 +675,8 @@ features:
   -
     title: IBM Operational Decision Manager (ODM) Source Config
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The IBM Operational Decision Manager (ODM) source configuration plug-in includes steps to complete the following tasks:"
     link: "ibm-odm-source-config/README"
   -
@@ -689,8 +689,8 @@ features:
   -
     title: IBM Rational Asset Manager for IBM DevOps Deploy
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "IBM Rational Asset Manager (RAM) is a collaborative software development asset management tool used to identify, manage and govern the design, development and consumption of software assets. The IBM Rational Asset Manager plug-in automates importing artifacts from Rational Asset Manager projects."
     link: "RAMSourceConfig/README"
   -
@@ -703,8 +703,8 @@ features:
   -
     title: IBM Rational ClearCase
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The IBM Rational Clearcase plug-in enables you to manually or automatically import artifacts from a ClearCase respository into an IBM DevOps Deploy Component version, using either Dynamic or Snapshot Views. The plug-in supports both Base ClearCase and Unified Change Management (UCM) source-code management system."
     link: "ClearCaseSourceConfig/README"
   -
@@ -752,8 +752,8 @@ features:
   -
     title: IBM Rational Team Concert - SCM
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Rational Team Concert SCM source configuration extracts files from the Rational Team Concert SCM into an DevOps Deploy component version. The source files can be pulled from a snapshot or live stream. For supported platforms, and additional information, refer to the plug-in documentation link on the right."
     link: "air-plugin-RTC-scm/README"
   -
@@ -801,8 +801,8 @@ features:
   -
     title: IBM DevOps Build
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Get artifacts from IBM DevOps Build."
     link: "uBuildSourceConfig/README"
   -
@@ -1060,8 +1060,8 @@ features:
   -
     title: Maven
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Apache Maven provides developers a complete build lifecycle framework. It is used to automate the build process based on a project object model (POM). Maven also generates reports and stores documents with its POM repository. The Maven plug-in automates downloading artifacts from Maven repositories."
     link: "MavenSourceConfig/README"
   -
@@ -1151,8 +1151,8 @@ features:
   -
     title: Microsoft TFS (Team Foundation Server)
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Microsoft Team Foundation Server (TFS) is a software development collaboration tool. It includes source control, data collection, reporting, and project tracking.The Microsoft TFS plug-in imports versioned source artifacts from a TFS server. See the [Microsoft TFS\_SCM (Team Foundation Server) plug-in](https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/UCD/TFS_SCM-SourceConfig/)to import deployable artifacts from the TFM server. Requirements"
     link: "TFS-SourceConfig/README"
   -
@@ -1165,8 +1165,8 @@ features:
   -
     title: Microsoft TFS_SCM (Team Foundation Server)
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The Microsoft TFS\_SCM plug-in imports version artifacts from a Team Foundation Server (TFS) server. TFS is supported both as a source of builds with the [TFS plug-in](https://urbancode.github.io/IBM-UCx-PLUGIN-DOCS/UCD/TFS-SourceConfig/), and by direct retrieval of deployable artifacts from source control."
     link: "TFS_SCM-SourceConfig/README"
   -
@@ -1207,8 +1207,8 @@ features:
   -
     title: NPM
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "NPM (Node Package Manager) is a package manager for the JavaScript programming language. NPM includes command-line client that interacts with a remote registry. Using the command-line interface, you can use and distribute JavaScript modules that are available on the registry. The Node Package Manager (NPM) source configuration plug-in uses the NPM command-line interface to import NPM packages as TAR files into component versions."
     link: "sourceconfig-npm/README"
   -
@@ -1228,15 +1228,15 @@ features:
   -
     title: Nexus Repository Manager V3
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Nexus is a repository manager, developed by SonaType, designed to store artifacts and cache remote repositories while providing universal package support. This plug-in integrates with Nexus to retrieve artifacts hosted in a Maven repository using IBM DevOps Deploy’s import mechanism."
     link: "sourceconfig-nexus-v3/README"
   -
     title: Nexus Source Config
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Nexus is a repository manager, developed by SonaType, designed to store artifacts and cache remote repositories while providing universal package support. This plug-in integrates with Nexus to retrieve artifacts hosted in a Maven repository using IBM DevOps Deploy’s import mechanism."
     link: "nexus-source-config/README"
   -
@@ -1256,15 +1256,15 @@ features:
   -
     title: NuGet
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "NuGet is an open-source package manager designed by Microsoft Corporation. The NuGet source configuation plug-in imports versioned source artifacts from a NuGet repository."
     link: "nuget-source-config/README"
   -
     title: OpenShift
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Use the OpenShift source configuration plug-in to manually or automatically create component versions from an OpenShift registry. The plug-in works by detecting OpenShift registry image tags and creating associated component versions for the tag."
     link: "OpenShiftSourceConfig/README"
   -
@@ -1333,15 +1333,15 @@ features:
   -
     title: PVCS
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Serena PVCS is a version management tool that provides a built-in file server and configuration control. The PVCS source configuration plug-in automates downloading artifacts from PVCS, creating new component versions, and importing artifacts."
     link: "PvcsSourceConfig/README"
   -
     title: Perforce Helix
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Perforce is a commercial, proprietary, centralized revision control system developed by Perforce Software, Inc. Use this source configuration plug-in to manually or automatically import artifacts from the Perforce Helix server into an IBM DevOps Deploy component version."
     link: "PerforceSourceConfig/README"
   -
@@ -1459,8 +1459,8 @@ features:
   -
     title: Subversion
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "Subversion is an open source version control software. It is used to maintain current and previous versions of source code, web pages, and documentation. The Subversion source configuration plug-in automates importing artifacts from a Subversion repository."
     link: "SubversionSourceConfig/README"
   -
@@ -1494,8 +1494,8 @@ features:
   -
     title: TeamCity
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "TeamCity is a build management and continuous integration tool which supports a variety of version control systems and build runners. The TeamCity server manages committed code changes, builds, real-time build information received from build agents, and build artifacts. The TeamCity plug-in automates downloading artifacts from TeamCity projects."
     link: "TeamCitySourceConfig/README"
   -
@@ -1592,8 +1592,8 @@ features:
   -
     title: z/OS File Source Config
     icon:
-      light: "/runProcess-dark.png"
-      dark: "/runProcess-white.png"
+      light: "/configure-dark.png"
+      dark: "/configure-white.png"
     details: "The z/OS File Source Config plug-in automates uploading data sets, UNIX files and generic artifacts from a z/OS system into a component version. New component versions are created based on the input [ship list](http://www.ibm.com/support/knowledgecenter/SS4GSP_6.2.2/com.ibm.udeploy.doc/topics/zos_shiplistfiles.html). The  z/OS File Source Config plug-in provides a Web UI to run the version import commands from the the z/OS deployment tools."
     link: ""
   -
