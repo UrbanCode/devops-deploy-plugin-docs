@@ -1,8 +1,6 @@
-# Usage
 
----
+# AccuRev SCM - Usage
 
-[[toc]]
 
 The AccuRev source configuration plug-in is capable of importing various artifact sets from AccuRev SCM. It is important to understand each of the properties to grab the correct artifact sets as component versions.
 
@@ -38,3 +36,4 @@ The AccuRev plug-in enables version imports of various artifact sets. Configure 
 If using the automatic import feature, the latest identified artifact set will be imported for each type.
 
 Otherwise, if using the manual import feature, you can specify a transaction, issue, or stream value to import a desired version. You can specify one or more values for each property.
+

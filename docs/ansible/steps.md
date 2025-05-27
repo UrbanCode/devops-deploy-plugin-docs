@@ -1,4 +1,19 @@
-# Steps
+
+# Ansible - Steps
+
+- [Command](#command)
+- [Copy](#copy)
+- [File](#file)
+- [Get URL](#get-url)
+- [Line In File](#line-in-file)
+- [Pip](#pip)
+- [Apt](#apt)
+- [Service](#service)
+- [Shell](#shell)
+- [Unarchive](#unarchive)
+- [AShell](#ashell)
+- [GetBuiltInAnsibleProperties](#getbuiltinansibleproperties)
+- [Apt Key](#apt-key)
 
 ## Command
 
@@ -149,13 +164,14 @@ It is similar to the **Ansible setup module**, where the queryKey parameter is e
 
 Use this step to apply the **apt_key module** in Ansible.
 
-::: info
-* The **apt-key command** used by this **module** has been **deprecated**. See the Debian wiki(https://wiki.debian.org/DebianRepository/UseThirdParty) for details.
-This module is kept for backwards compatibility for systems that still use apt-key as the main way to manage apt repository keys.
-Reference Ansible Official Documentation: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_key_module.html
-* In the **next release of the plugin**, this **step will be removed**.
-:::
+> **Note:**
+> ---------
+>* The **apt-key command** used by this **module** has been **deprecated**. See the Debian wiki(https://wiki.debian.org/DebianRepository/UseThirdParty) for details.   <br/>
+   This module is kept for backwards compatibility for systems that still use apt-key as the main way to manage apt repository keys.  <br/>
+   Reference Ansible Official Documentation: https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_key_module.html
+>* In the **next release of the plugin**, this **step will be removed**.
 
 | Name  | Type     | Description                                  | Required |
 |-------|----------|----------------------------------------------|----------|
 | data  | textBox  | The keyfile contents to add to the keyring.  | Yes      |
+

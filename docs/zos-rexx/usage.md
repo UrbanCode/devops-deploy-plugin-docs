@@ -1,8 +1,6 @@
-# Usage
+# z/OS Rexx Executor - Usage
 
 ---
-
-[[toc]]
 
 The z/OS Rexx Executor plug-in will execute statements provided in a dataset or inline in the plugin step.
  
@@ -69,3 +67,4 @@ then the output properties can be referred by the successive steps as below
 **Note**
 
 From plugin version 2, an output property __RexxReturnCode__ will store the return/exit code from REXX program.
+
