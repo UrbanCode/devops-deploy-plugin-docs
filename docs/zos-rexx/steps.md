@@ -1,8 +1,10 @@
-# Steps
+# z/OS Rexx Executor - Steps
 
 ---
 
-## Execute a REXX program
+## Process steps in the z/OS Rexx Executor plug-in
+
+### Execute a REXX program
 
 Use this step to execute rexx program
 

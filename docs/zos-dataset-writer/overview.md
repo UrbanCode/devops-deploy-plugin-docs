@@ -1,8 +1,5 @@
-# Overview
+# z/OS Dataset Writer - Overview
 
----
-
-[[toc]]
 
 The z/OS Dataset Writer plug-in helps you copy text to a mainframe dataset.
 
@@ -21,11 +18,9 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 
 ### Version 3
 
-::: warning
-while upgrading plugin from older versions to version 3.
-Sequential output dataset must be enclosed in single quotes for a fully qualified dataset. 
-If the single quotation marks are omitted, the user’s dataset prefix from the TSO profile is automatically appended to the front of the dataset name.
-:::
+> __Note while upgrading plugin from older versions to version 3:__
+> 
+> Sequential output dataset must be enclosed in single quotes for a fully qualified dataset. If the single quotation marks are omitted, the user’s dataset prefix from the TSO profile is automatically appended to the front of the dataset name.
 
 * Enhancement to accept source as PDS member or sequential dataset or USS File
 
