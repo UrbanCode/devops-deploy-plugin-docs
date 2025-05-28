@@ -29,32 +29,32 @@ hero:
 
 features:
   -
-    title: 7-Zip  [community plugin]
+    title: 7-Zip [Community Plugin]
     icon:
       light: "/runProcess-dark.png"
       dark: "/runProcess-white.png"
-    details: "The 7-Zip plug-in is a community plug-in. Community plug-ins are open source projects that are developed and supported by the IBM DevOps development community."
+    details: "Plugin to extract 7zip archives."
     link: "7-zip/README"
   -
     title: AccuRev SCM
     icon:
       light: "/configure-dark.png"
       dark: "/configure-white.png"
-    details: "AccuRev is a client/server based source configuration management tool developed by AccuRev Inc. and maintained by MicroFocus."
+    details: "The AccuRev source configuration plug-in creates component versions with artifacts from AccuRev."
     link: "AccuRevSourceConfig/README"
   -
-    title: Actifio  [partner plugin]
+    title: Actifio  [Partner Plugin]
     icon:
       light: "/runProcess-dark.png"
       dark: "/runProcess-white.png"
-    details: "This plugin allows process steps to be created that leverage the instant mount capabilities for databases that Actifio’s data management platform provides. Downloads"
+    details: "This plugin allows process steps to be created that leverage the instant mount capabilities for databases that Actifio’s data management platform provides."
     link: "actifio/README"
   -
     title: Amazon EC2
     icon:
       light: "/runProcess-dark.png"
       dark: "/runProcess-white.png"
-    details: "Amazon Elastic Compute Cloud (EC2) provides virtual compute resources to users for running their own applications and allows scalable deployments. This plug-in provides steps for launching instances, terminating instances, associating IP addresses, waiting for instances, creating a security group, and getting the public DNS for the Amazon EC2 tool. The Amazon [AWS SDK](http://aws.amazon.com/sdkforjava/) is required and must be downloaded from Amazon separately. The[DevOps Deploy Blueprint Designer](/product/deploy/blueprint-designer/) can interact with AWS in a more declarative manner, and should be considered as a possible alternative to this plugin."
+    details: "This plug-in provides steps for launching instances, terminating instances, associating IP addresses, waiting for instances, creating a security group, and getting the public DNS for the Amazon EC2 tool."
     link: "AmazonEC2/README"
   -
     title: Amazon Web Services (AWS) Lambda  [community plugin]

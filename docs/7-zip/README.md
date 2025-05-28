@@ -1,3 +1,6 @@
+---
+title: 7-Zip
+---
 
 # 7-Zip
 
@@ -5,9 +8,6 @@
 
 The 7-Zip plug-in is a community plug-in. Community plug-ins are open source projects that are developed and supported by the IBM DevOps development community.
 
-## Downloads
-
-* [7-Zip plug-in distribution](https://github.com/UrbanCode/7-Zip-UCD/releases)
 * [Source project](https://github.com/UrbanCode/7-Zip-UCD)
 
 If you encounter issues with the plug-in, or want to send feedback:
@@ -18,4 +18,4 @@ If you encounter issues with the plug-in, or want to send feedback:
 
 ## Available Steps
 
-Extract archiveExtract 7-Zip archive files.
+* [Extract Archive](steps.md#extract-archive)
