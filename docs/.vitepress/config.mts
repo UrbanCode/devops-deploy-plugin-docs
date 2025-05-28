@@ -8,6 +8,7 @@ function createCommonSidebar(base, text) {
         { text: 'About', link: `${base}README` },
         { text: 'Steps', link: `${base}steps` },
         { text: 'Usage', link: `${base}usage`},
+        { text: 'Troubleshoot', link: `${base}troubleshoot`},
         { text: 'Downloads', link: `${base}downloads`}
       ]
     }
