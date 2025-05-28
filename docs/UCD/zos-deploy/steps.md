@@ -142,7 +142,7 @@ Load artifacts from a remote repository using FTP.
 
 > **Note:**
 > ---------
->* Deployment Action filter is applicable only if **Backup** is enabled in [Deploy Data Sets](../zos-deploy/steps.md#deploy-datasets-and-uss-files) step
+>* Deployment Action filter is applicable only if **Backup** is enabled in [Deploy Data Sets](#deploy-datasets-and-uss-files) step
 >* Deployment Action filter is applicable only for loop types **Sequential Datasets** or **PDS Members**
 >* Target Dataset Name filter is applicable for only **Dataset/PDS Member** loop types
 

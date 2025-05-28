@@ -1,25 +1,14 @@
 import { defineConfig } from 'vitepress'
 
-function createCommonSidebar(base) {
+function createCommonSidebar(base, text) {
   return [
     {
+	  text: text,
       items: [
-        { text: 'About', link: `${base}/README` },
-        { text: 'Steps', link: `${base}/steps` },
-        { text: 'Usage', link: `${base}/usage`},
-        { text: 'Downloads', link: `${base}/downloads`}
-      ]
-    }
-  ]
-}
-
-function createCommonSidebarWithoutUsage(base) {
-  return [
-    {
-      items: [
-        { text: 'About', link: `${base}/README` },
-        { text: 'Steps', link: `${base}/steps` },
-        { text: 'Downloads', link: `${base}/downloads`}
+        { text: 'About', link: `${base}README` },
+        { text: 'Steps', link: `${base}steps` },
+        { text: 'Usage', link: `${base}usage`},
+        { text: 'Downloads', link: `${base}downloads`}
       ]
     }
   ]
@@ -28,7 +17,7 @@ function createCommonSidebarWithoutUsage(base) {
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/devops-deploy-plugin-docs/",
-  title: "Home",
+  title: "DevOps Deploy Plugins",
   description: "Documentation for IBM DevOps Deploy Plugins",
   appearance: "dark",
   lastUpdated: true,
@@ -41,11 +30,11 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     sidebar: {
-		'/7-zip/' : createCommonSidebarWithoutUsage('/7-zip'),
-      '/zos-dataset-writer/' : createCommonSidebar('/zos-dataset-writer'),
-      '/zos-rexx/' : createCommonSidebar('/zos-rexx'),
-      '/ansible/' : createCommonSidebar('/ansible'),
-      '/AccuRevSourceConfig/' : createCommonSidebar('/AccuRevSourceConfig')
+		'/UCD/7-zip/' : createCommonSidebar('/UCD/7-zip/', '7 Zip'),
+      // '/UCD/zos-dataset-writer/' : createCommonSidebar('/zos-dataset-writer'),
+      // '/zos-rexx/' : createCommonSidebar('/zos-rexx'),
+      // '/ansible/' : createCommonSidebar('/ansible'),
+      // '/AccuRevSourceConfig/' : createCommonSidebar('/AccuRevSourceConfig')
     },
 
     socialLinks: [

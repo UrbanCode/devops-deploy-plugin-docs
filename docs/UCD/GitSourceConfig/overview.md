@@ -5,12 +5,12 @@ The Git plug-in automates importing artifacts from a Git repository.
 
 This plug-in includes one step which has no input properties:
 
-* [Import Version](./settings.md#import-version)
+* [Import Version](settings.md#import-version)
 
 The plug-in adds the following roles to resources:
 
-* [GitComponentProperties](./settings.md#gitcomponentproperties)
-* [GitImportProperties](./settings.md#gitimportproperties)
+* [GitComponentProperties](settings.md#gitcomponentproperties)
+* [GitImportProperties](settings.md#gitimportproperties)
 
 ## Step palette
 

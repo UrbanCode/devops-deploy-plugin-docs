@@ -1,8 +1,4 @@
----
-title: 7-Zip
----
-
-# 7-Zip
+# About
 
 7-Zip is an open source file compression and expansion utility that uses a variety of compression algorithms. This plug-in provides a step to extract 7-Zip archive files.
 
