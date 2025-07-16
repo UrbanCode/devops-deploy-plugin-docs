@@ -19,7 +19,7 @@ Return the database to a previous version.
 | Password | Password | The password that is associated with the user ID to access the database. | No |
 | SQL File Include | String | A pattern that defines the XML files to read for this rollback. Use an asterisk (\*) as a wildcard. Example: `upgrade_sql_*.xml` or `*.xml`. | Yes |
 | SQL File path | String | The path to the directory that contains the SQL files. | Yes |
-| Target Version | String | The version to return the database to. This string corresponds to the <change> elements number.If a target version is specified, the database is not rolled back to a version before the specified version. Example: `MySQL example:com.mysql.jdbc.Driver`. | No |
+| Target Version | String | The version to return the database to. This string corresponds to the `<change>` elements number.If a target version is specified, the database is not rolled back to a version before the specified version. Example: `MySQL example:com.mysql.jdbc.Driver`. | No |
 | URL | String | The URL of the database that the DevOps Deploy server uses to communicate with the database. For example, you can use the **``${p:environment/db.url}``** property. | Yes |
 | Update Version SQL | String | An SQL statement to update the current version of the database. Use the first question mark (?) for the RELEASE\_NAME value, and the second mark (?) for the VER value.Example: `INSERT INTO DB_VERSION (RELEASE_NAME,VER) VALUES(?,?)`. | Yes |
 | User | String | The user name for the account that has access to the database. The user account must have enough permissions to complete the SQL queries that you provide it. | Yes |
