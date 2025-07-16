@@ -5,7 +5,7 @@
 
 You will need to define an DevOps Deploy component which defines the source and processes for the Maven repository. The component contains the information for importing the artifacts and any processes to implement on the artifacts.
 
-When creating the component, youll supply information described on the [Import Version](./steps.md/import-version) step. After the component is created, use the **Components** page in the user interface to import a version of the artifacts if automatic import is not selected.
+When creating the component, youll supply information described on the [Import Version](steps.md#import-version) step. After the component is created, use the **Components** page in the user interface to import a version of the artifacts if automatic import is not selected.
 
 To create a component, complete the following steps. For more information about creating a component, see [Creating components](http://www-01.ibm.com/support/knowledgecenter/SS4GSP_7.0.2/com.ibm.udeploy.doc/topics/comp_create.html "Creating components") in the product documentation.
 
@@ -14,7 +14,7 @@ To create a component, complete the following steps. For more information about 
 3. In the **Teams** fields, specify the access information for the new component.
 4. To use a template for the new component, select a template from the Template list. In this case, the component inherits source configuration, properties, and processes from the template.
 5. In the **Source Config Type** list, select **Teamcity**.
-6. Specify the properties for the component. See [Steps](./steps.md/TeamCityComponentProperties) for property descriptions.
+6. Specify the properties for the component. See [Steps](steps.md#teamcitycomponentproperties) for property descriptions.
 7. Click **Save**.
 
 ## Import a version

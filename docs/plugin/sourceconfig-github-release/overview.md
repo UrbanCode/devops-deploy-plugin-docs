@@ -7,7 +7,7 @@ When creating the component, youll supply information described on the Import Ve
 
 This plug-in includes one step which has no input properties:
 
-* [Import Version](Steps/#import_version)
+* [Import Version](steps.md#import-version)
 
 
 ## Step palette

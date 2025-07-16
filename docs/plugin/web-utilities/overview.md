@@ -5,9 +5,9 @@ Use the Web Utilities plug-in to send HTTP requests to web servers in IBM DevOps
 
 This plug-in includes the following steps:
 
-* [Send HTTP Call](steps/#send_http_call)
-* [Upload to FTP Server](steps/#upload_to_ftp_server)
-* [Delete from FTP Server](steps/#delete_from_ftp_server)
+* [Send HTTP Call](steps.md#send-http-call)
+* [Upload to FTP Server](steps.md#upload-to-ftp-server)
+* [Delete from FTP Server](steps.md#delete-from-ftp-server)
 
 ## Compatibility
 
