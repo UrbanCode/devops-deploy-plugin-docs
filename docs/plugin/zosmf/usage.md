@@ -32,8 +32,6 @@ Open zOSMFService resource and click **Configuration**>**Basic Settings**. The r
 
 **Note:** The ID is an MVS user ID with proper permissions setup. To ensure the user ID is working properly, use it to log into the z/OSMF web interface and list the software services instances.
 
-[![](zosmf-specify-userid-password.jpg)](media/zosmf-specify-userid-password.jpg)
-
 Go back to the Resource Tree view, click the**Actions**button that is associated with the zOSMFServiceresource, and then click**Configure using Software Services Instance Discovery**. The discovery step runs. A log displays to show progress.When the discovery process completes, close the log window, and refresh the resource tree.Resources that represent the software services instancesare displayed in the resource tree. Thenew resources are organized in structure `plex\system\software type\instance name`.
 
 [![](media/zosmf-discover-step-2.jpg)](media/zosmf-discover-step-2.jpg)
