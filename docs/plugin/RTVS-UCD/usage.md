@@ -63,7 +63,3 @@ To virtualize the web service, you can use the Green Hat plug-in to create a tra
 
 When you run the application process, the user interface component is deployed and then the virtual services component is deployed.
 
-
-|Back to ...||Latest Version|IBM Rational Test Virtualization Server (RTVS) ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[4.0](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/RTVS-UCD/RTVS-UCD-4.0.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

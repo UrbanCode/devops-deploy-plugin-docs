@@ -33,7 +33,3 @@ The plugin will first try to connect to the V1 REST API. If the connection fails
 ## Full Demonstration of the Nexus Repository Manager V3 Plugin
 
 
-
-|Back to ...||Latest Version|Nexus Repository Manager V3 ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[5.1164218](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/sourceconfig-nexus-v3/ucd-sourceconfig-nexus-v3-5.1164218.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

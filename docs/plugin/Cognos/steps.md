@@ -45,7 +45,3 @@ Import content from an archive to the Cognos content store.
 | UserID | String | An administrator user ID that is capable of importing/exporting content. | Yes |
 
 
-
-|Back to ...||Latest Version|IBM Cognos |||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[12.1175694](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Cognos/ucd-Cognos-12.1175694.zip)|[Readme](README.md)|[Overview](overview.md)|[Downloads](downloads.md)|

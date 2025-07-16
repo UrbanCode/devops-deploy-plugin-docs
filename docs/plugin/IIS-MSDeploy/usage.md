@@ -31,7 +31,3 @@ The following example describes deploying a website from the local file system t
 7. In the **Command Path** field, enter the full path to the directory where the msdeploy executable is stored. For example, enter `C:\Program Files\IIS\Microsoft Web Deploy V3\`.
 3. Click **OK** to save the step properties, and then save the process.
 4. Run the configured step as part of a deployment process. The local website is deployed to your Azure Web App.
-
-|Back to ...||Latest Version|Microsoft IIS MS-Deploy (Azure App Service) ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[6.1164186](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/IIS-MSDeploy/ucd-IIS-MSDeploy-6.1164186.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

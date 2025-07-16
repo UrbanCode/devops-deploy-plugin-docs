@@ -14,7 +14,3 @@ To run this process the application binary files must be in the component. Also 
 [![A component process that uses the steps in the Rational Quality Manager plug-in to run a test case in Rational Quality Manager](media/rationalqualitymanager_a.gif)](media/rationalqualitymanager_a.gif)
 A component process that uses the steps in the Rational Quality Manager plug-in to run a test case in Rational Quality Manager
 
-
-|Back to ...||Latest Version|IBM Rational Quality Manager (RQM) ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[11.1101668](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/RationalQualityManager/RQM-11.1101668.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

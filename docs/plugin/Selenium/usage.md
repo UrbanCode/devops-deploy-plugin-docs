@@ -120,7 +120,3 @@ One option is to configure a virtual frame buffer (such as xvfb) to act as a dum
 
 There exists a second option to solve the headless environment dilemma. As an alternative to the virtual frame buffer option, you may update your tests to use headless web drivers. The following guide from DevOps Zone covers headless web drivers in detail ([Headless Execution of Selenium Tests in Jenkins](https://dzone.com/articles/headless-execution-of-selenium-tests-in-jenkins)). The guide mentions Jenkins specifically, but most of the content covers Selenium tests as a whole. See the section entitled *Quick Solution* for information on headless web drivers.
 
-
-|Back to ...||Latest Version|Selenium ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[9.1154067](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Selenium/ucd-Selenium-9.1154067.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

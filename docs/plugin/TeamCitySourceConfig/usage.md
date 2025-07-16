@@ -83,7 +83,3 @@ The Build Configuration ID specifies the exact build project to import as compon
 ### Authentication
 
 While some TeamCity servers are open to the public to view, realistically your TeamCity server will be protected with a username and password. Specify any username and password that has access to a particular project build. The same credentials used to login manually are used here.
-
-|Back to ...||Latest Version|TeamCity ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[20.1153959](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/TeamCitySourceConfig/ucd-TeamCitySourceConfig-20.1153959.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

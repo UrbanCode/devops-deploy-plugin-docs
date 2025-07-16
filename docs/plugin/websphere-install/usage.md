@@ -36,7 +36,3 @@ To run the sample application, complete the following steps:
 18. On the Components page, click **WebSphereDeployment Manager > Configuration > Component Properties**. Review the default values and change the values as needed.
 19. On the Components page, click **WebSphereNode > Configuration > Component Properties**. Review the default values and change the values as needed.
 20. Go to the Applications page, then click **WebSphere Application Server Cell**. Click **Request Process** for the environment, clear **Only Changed Versions**, and select **Install** from the **Process** list. Click **Choose Versions**, and then select **for all > latest available.** Click **OK**, and then click **Submit**.
-
-|Back to ...||Latest Version|WebSphere Application Server - Install ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[11.1154050](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/websphere-install/ucd-WAS-Install-11.1154050.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

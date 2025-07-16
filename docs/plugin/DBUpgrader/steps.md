@@ -43,7 +43,3 @@ Update the database.
 | User | String | The user name for the account that has access to the database. The user account must have enough permissions to complete the SQL queries that you provide it. | Yes |
 
 
-
-|Back to ...||Latest Version|IBM DevOps DBUpgrader ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[5.1151802](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/DBUpgrader/ucd-DBUpgrader-5.1151802.zip)|[Readme](README.md)|[Overview](overview.md)|[Usage](usage.md)|[Downloads](downloads.md)|

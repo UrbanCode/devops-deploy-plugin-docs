@@ -42,7 +42,3 @@ Execute a test suite.
 | Test Suite Execution Record ID | String | The numeric ID of the test suite execution record to run. | Yes |
 
 
-
-|Back to ...||Latest Version|IBM Rational Quality Manager (RQM) ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[11.1101668](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/RationalQualityManager/RQM-11.1101668.zip)|[Readme](README.md)|[Overview](overview.md)|[Usage](usage.md)|[Downloads](downloads.md)|

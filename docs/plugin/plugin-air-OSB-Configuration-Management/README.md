@@ -23,7 +23,3 @@ For information on platform requirements, see the [plug-in documentation](https:
 Refer to the linked documentation for a comprehensive list of available steps.
 
 
-
-|Back to ...||Latest Version||||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[13.914640](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/plugin-air-OSB-Configuration-Management/plugin-air-OSB-Configuration-Management-13.914640.zip)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

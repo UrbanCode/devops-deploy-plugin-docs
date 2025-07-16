@@ -44,7 +44,3 @@ Import content from an archive to the Cognos Analytics content store.
 | Target Directory | String | If this is a new deployment specification, provide the search path of the directory in the Cognos Analytics content store where the artifact is deployed. | No |
 | User ID | String | The administrator user ID that has import and export privileges. | Yes |
 
-
-|Back to ...||Latest Version|IBM Cognos Analytics ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[1.1107117](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/cognos-analytics/Cognos-Analytics-1.1107117.zip)|[Readme](README.md)|[Overview](overview.md)|[Usage](usage.md)|[Downloads](downloads.md)|

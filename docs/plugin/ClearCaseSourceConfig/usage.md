@@ -30,7 +30,3 @@ When the artifacts are imported, a component version is created using the versio
 
 To access this plug-in in the palette, click **Source and Repositories** > **ClearCase**.
 
-
-|Back to ...||Latest Version|IBM Rational ClearCase ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[17.1155764](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/ClearCaseSourceConfig/ucd-ClearCaseSourceConfig-17.1155764.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps and Roles](steps and roles.md)|[Downloads](downloads.md)|

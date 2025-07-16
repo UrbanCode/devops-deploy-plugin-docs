@@ -152,7 +152,3 @@ The [Jenkins Pipeline Plug-in Tutorial](https://community.ibm.com/community/user
 ### Version 2.0
 
 * Initial release
-
-|Back to ...||Latest Version|Jenkins Pipeline |||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[2.27.1134919](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/jenkins-pipeline-ud-plugin/ibm-ucdeploy-build-steps-2.27.1134919.hpi)|[Readme](README.md)|[Usage](usage.md)|[Downloads](downloads.md)|

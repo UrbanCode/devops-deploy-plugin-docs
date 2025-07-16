@@ -53,7 +53,3 @@ The Nexus Source Configuration plug-in allows the import of entire Release or Sn
 [![](media/snapshot-project.png)](media/snapshot-project.png)
 Maven Snapshot Grouping
 
-
-|Back to ...||Latest Version|Nexus Source Config ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[4.1053075](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/nexus-source-config/Nexus-Source-Config-4.1053075.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

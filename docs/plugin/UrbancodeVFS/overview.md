@@ -121,7 +121,3 @@ This release includes functions in the Download Artifacts step for minimal compa
 
 This release includes a fix for an issue where the initial character in a file name that is specified in the Download Artifacts step is dropped.
 
-
-|          Back to ...          |                                |                                                          Latest Version                                                           | IBM DevOps Deploy Versioned File Storage |||
-|:-----------------------------:|:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------:| :---: | :---: |
-| [All Plugins](../../index.md) | [Deploy Plugins](../README.md) | [48.1172096](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/UrbancodeVFS/ucd-UrbancodeVFS-48.1172096.zip) |             [Readme](README.md)             |[Steps](steps.md)|[Downloads](downloads.md)|

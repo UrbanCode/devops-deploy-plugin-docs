@@ -75,7 +75,3 @@ This plug-in is installed when installing IBM DevOps Deploy. When new plug-in ve
 
 * Initial release
 
-
-|          Back to ...          |                                |                                                                                   Latest Version                                                                                    | z/OS Multi Generate Artifact Information |                   |                   |                           |
-|:-----------------------------:|:------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------:|:-----------------:|:-----------------:|:-------------------------:|
-| [All Plugins](../../index.md) | [Deploy Plugins](../README.md) | [10.1179047](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/zos-multi-generate-artifact-info/devops-deploy-zos-multi-generate-artifact-info-10.1179047.zip) |           [Readme](README.md)            | [Steps](steps.md) | [Usage](usage.md) | [Downloads](downloads.md) |

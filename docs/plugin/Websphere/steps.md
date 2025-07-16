@@ -2571,7 +2571,3 @@ This step discovers all the nodes, servers, and clusters in a cell and creates r
 | Resource | String | The resource to configure. | No |
 | User Name | String | The user name for connecting to the WebSphere node. | No |
 | wsadmin Max Heap | String | The javaoption passed to the wsadmin command. | No |
-
-|Back to ...||Latest Version|WebSphere Application Server - Deployment |||||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[131.1165947](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Websphere/ucd-WebSphere-131.1165947.zip)|[Readme](README.md)|[Overview](overview.md)|[User permissions](user permissions.md)|[Usage](usage.md)|[Roles](roles.md)|[Troubleshooting](troubleshooting.md)|[Downloads](downloads.md)|

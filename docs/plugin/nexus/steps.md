@@ -17,7 +17,3 @@ Download a NuGet package from a Nexus repository.
 | Repository Username | String | The user name to authenticate with Nexus. | No |
 
 
-
-|Back to ...||Latest Version|Nexus |||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[3.1101667](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/nexus/Nexus-3.1101667.zip)|[Readme](README.md)|[Overview](overview.md)|[Downloads](downloads.md)|

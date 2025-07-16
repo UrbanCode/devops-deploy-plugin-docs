@@ -106,7 +106,3 @@ You can view all of the preconfigured settings of the UCD\_ANALYSIS\_TEMPLATE. I
 
 After the step runs it will generate an HTML report file called An\_Report1.html in your working directory. This directory will be the components working directory in the UCD agent by default.
 
-
-|Back to ...||Latest Version|HP LoadRunner ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[1.1004896](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/hp-loadrunner/plugins-hp-loadrunner-1.1004896.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

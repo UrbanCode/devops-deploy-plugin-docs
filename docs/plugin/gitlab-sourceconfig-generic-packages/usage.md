@@ -20,11 +20,3 @@ To create a component, complete the following steps. For more information about 
 5. Specify the type of version to create by default on version import.
 6. Click **Save**.
 
-
-|          Back to ...          | |         Latest Version         |GitLab Generic Packages|||
-|:-----------------------------:|:------------------------------:| :---: | :---: | :---: | :---: |
-| [All Plugins](../../index.md) | [Deploy Plugins](../README.md) |[3.1158910](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/gitlab-sourceconfig-generic-packages/ucd-plugins-sourceconfig-gitlab-generic-packages-3.1158910.zip)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|
-
-
-
-

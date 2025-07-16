@@ -76,7 +76,3 @@ Get Variable from Conjur
 | Ouput PropertyVariable | String | Process Request Property for storing the retrieved variable | Yes |
 | Proxy | String | Proxy, leave it blank if no proxy is needed | No |
 | Variable ID | String | Variable ID | Yes |
-
-|Back to ...||Latest Version|CyberArk |||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[4.1098501](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/cyberark/cyberark-4.1098501.zip)|[Readme](README.md)|[Overview](overview.md)|[Usage](usage.md)|

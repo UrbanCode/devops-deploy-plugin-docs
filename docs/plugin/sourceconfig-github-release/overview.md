@@ -40,7 +40,3 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 ### Version 1
 
 * Initial release of GitHub Release source configuration plugin.
-
-|Back to ...||Latest Version|GitHub-Release |||
-| :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[5.1154619](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/sourceconfig-github-release/ucd-GitHubReleaseSourceConfig-5.1154619.zip)|[Readme](README.md)|[Steps](steps.md)|[Downloads](downloads.md)|

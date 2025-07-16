@@ -132,7 +132,3 @@ Within the <SQL> tags are the SQL statements that are required to apply the chan
 * The number attribute on the <change> element is used to control the processing order of the <change> elements. Changes are executed in a sequential order, as determined by the number attribute. For example, the number attribute runs change 1, then changes 2, 3, 4, and so on.
 
 Each SQL statement inside a <change> element is run in the order it is provided, as any other SQL script.
-
-|Back to ...||Latest Version|IBM DevOps DBUpgrader ||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[5.1151802](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/DBUpgrader/ucd-DBUpgrader-5.1151802.zip)|[Readme](README.md)|[Overview](overview.md)|[Steps](steps.md)|[Downloads](downloads.md)|

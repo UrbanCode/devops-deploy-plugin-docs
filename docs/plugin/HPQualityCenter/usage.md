@@ -47,7 +47,3 @@ The process of HP ALM Client Registration downloads the OTAClient.dll and places
 ## More Information
 
 For more information on the ALM Open Test Architecture API, please visit [HP ALM API References Page](http://alm-help.saas.hpe.com/en/12.50/online_help/Content/api_guides_main_page.htm) in the HP ALM Help Center.
-
-|Back to ...||Latest Version|MicroFocus ALM (formerly HP Quality Center) |||||
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|[All Plugins](../../index.md)|[Deploy Plugins](../README.md)|[16.1011648](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/HPQualityCenter/HPQualityCenter-16.1011648.zip)|[Readme](README.md)|[Overview](overview.md)|[Troubleshooting](troubleshooting.md)|[Steps](steps.md)|[Downloads](downloads.md)|
