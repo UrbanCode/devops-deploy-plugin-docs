@@ -34,7 +34,7 @@ features:
       light: "/runProcess-dark.png"
       dark: "/runProcess-white.png"
     details: "Plugin to extract 7zip archives."
-    link: "UCD/7-zip/README"
+    link: "plugin/7-zip/README"
   -
     title: AccuRev SCM
     icon:

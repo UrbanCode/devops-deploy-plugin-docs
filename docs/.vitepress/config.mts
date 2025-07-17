@@ -8,7 +8,6 @@ function createCommonSidebar(base, text) {
         { text: 'About', link: `${base}README` },
         { text: 'Steps', link: `${base}steps` },
         { text: 'Usage', link: `${base}usage`},
-        { text: 'Troubleshoot', link: `${base}troubleshoot`},
         { text: 'Downloads', link: `${base}downloads`}
       ]
     }
@@ -31,7 +30,7 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     sidebar: {
-		'/UCD/7-zip/' : createCommonSidebar('/UCD/7-zip/', '7 Zip'),
+		'/plugin/7-zip/' : createCommonSidebar('/plugin/7-zip/', '7 Zip'),
       // '/UCD/zos-dataset-writer/' : createCommonSidebar('/zos-dataset-writer'),
       // '/zos-rexx/' : createCommonSidebar('/zos-rexx'),
       // '/ansible/' : createCommonSidebar('/ansible'),
