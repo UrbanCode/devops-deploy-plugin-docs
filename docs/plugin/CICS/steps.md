@@ -342,7 +342,7 @@ You can view a steps output properties in the **Log** tab of the **Process Reque
 Image showing the location output properties in the Process Request window
 The following is a sample of the cics.response.errors output when NEWCOPY fails with a NODATA error:
 
-```CICS
+```
 
 [{"action":"NEWCOPY","attribute":"","errorCode":"","reasonName":"","resourceName":"NOTEXIST","resourceType":"PROGRAM","resp1Name":"","resp2":"","responseName":"NODATA"}``]
 
