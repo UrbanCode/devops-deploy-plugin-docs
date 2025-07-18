@@ -1,6 +1,6 @@
 # Documentation site for IBM DevOps Deploy Plugins
 
-To build the project locally, `Node.js` is required.
+To build the project locally, See [Vitepress Prerequisites](https://vitepress.dev/guide/getting-started#prerequisites)
 
 ## Steps to build
 
@@ -22,6 +22,12 @@ To build the project locally, `Node.js` is required.
    npm ci
 ```
 
+* To host the project locally, run in developer mode
+
+```shell
+   npm run docs:dev
+```
+
 * To build the project run below build command
 
 ```shell
@@ -32,10 +38,4 @@ To build the project locally, `Node.js` is required.
 
 ```shell
    npm run docs:serve
-```
-
-* To host the project locally, run in developer mode
-
-```shell
-   npm run docs:dev
 ```
