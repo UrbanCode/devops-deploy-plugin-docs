@@ -10,6 +10,11 @@ export default defineConfig({
   description: "Documentation for IBM DevOps Deploy Plugins",
   appearance: "dark",
   lastUpdated: true,
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 4000, // Set your desired limit in KB
+    },
+  },
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/UrbanCode/devops-deploy-plugin-docs/edit/main/docs/:path'
