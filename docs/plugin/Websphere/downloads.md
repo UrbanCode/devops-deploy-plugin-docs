@@ -3,6 +3,7 @@
 
 To download the plug-in, click the following version-specific links.
 
+- [ucd-WebSphere-132.1179210.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Websphere/WAS-Deploy-132.1179210.zip)
 - [ucd-WebSphere-131.1165947.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Websphere/ucd-WebSphere-131.1165947.zip)
 - [ucd-WebSphere-130.1164187.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Websphere/ucd-WebSphere-130.1164187.zip)
 - [ucd-WebSphere-129.1158192.zip](https://raw.githubusercontent.com/UrbanCode/IBM-UCD-PLUGINS/main/files/Websphere/ucd-WebSphere-129.1158192.zip)

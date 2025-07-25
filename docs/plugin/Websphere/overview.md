@@ -55,6 +55,10 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 
 ### History
 
+#### Version 132
+
+* URBANCODE-I-710 Extend Role Mappings for "Map Users and Groups to Roles" Step.
+
 #### Version 131
 
 * Fixed the issue for securedata jar for compatibility with Java 8.
