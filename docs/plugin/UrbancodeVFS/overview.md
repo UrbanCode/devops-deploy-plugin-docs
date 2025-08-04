@@ -20,6 +20,11 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 
 ## History
 
+### Version 49
+
+* Update commons-lang to 3.18 resolves finding for non-exploitable CVE-2025-48924
+* Replace pax command with untar for zOS artifacts download
+
 ### Version 48
 
 Validate checksum for zOS component versions created on server version 8.1.0 or higher  
