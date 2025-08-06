@@ -27,7 +27,9 @@ No special steps are required for installation. See [Installing plug-ins in DevO
 * Fixed download issue occurring on server versions 7.2.X
 * Added steps to create a merged version for JFrog and Nexus
 * Renamed plugin from **zOS Utility to download external artifacts** to **zOS External Artifacts Utility**
-* The plugin has been moved from tag **Repositories/Artifact/zOS ExternalArtifactsDownload** to **Utilities/zOS External Artifacts Utility** 
+* The plugin has been moved from tag **Repositories/Artifact/zOS ExternalArtifactsDownload** to **Utilities/zOS External Artifacts Utility**
+* Replace pax command with untar for zOS artifacts download
+* Added support for creating a merged version for package format v2
 
 ### Version 12
 
